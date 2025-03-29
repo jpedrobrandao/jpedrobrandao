@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Olá! Sou um engenheiro de software com foco em ciência e engenharia de dados. Meu trabalho é transformar dados em insights valiosos e construir sistemas inteligentes que melhoram a experiência do usuário.<br><br>Atualmente, trabalho com:<br>🚀 Sistemas de Recomendação – Desenvolvimento de soluções usando Filtragem Colaborativa e Filtragem Baseada em Conteúdo, com diferenciais como recomendação em tempo real via Apache Kafka e MongoDB.<br>📊 Análise de Sentimentos em Redes Sociais – Processamento de texto em tempo real com Apache Spark/Apache Flink, criando alertas automáticos baseados em insights.<br>📈 Análise de Dados em Alta Performance – Uso de ferramentas escaláveis para processar grandes volumes de dados e extrair padrões acionáveis.<br><br>
 
 
